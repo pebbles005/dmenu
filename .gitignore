@@ -1,4 +1,8 @@
-# all dmenu executables
+*.orig
+*.rej
+*.o
+*.rej
+*.png
 dmenu
 dmenu_run
 dmenu_path
